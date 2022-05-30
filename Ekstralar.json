@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6287adc1d29a66e0c4db249b"
+  },
+  "Urun": "Bacon",
+  "Fiyat": 15
+},{
+  "_id": {
+    "$oid": "6287adc6d29a66e0c4db249c"
+  },
+  "Urun": "Hindi",
+  "Fiyat": 12
+},{
+  "_id": {
+    "$oid": "6287adcad29a66e0c4db249d"
+  },
+  "Urun": "Cheddar",
+  "Fiyat": 8
+},{
+  "_id": {
+    "$oid": "6287adced29a66e0c4db249e"
+  },
+  "Urun": "Kasar_Peynir",
+  "Fiyat": 7
+},{
+  "_id": {
+    "$oid": "6287add1d29a66e0c4db249f"
+  },
+  "Urun": "Somon_Fume",
+  "Fiyat": 24
+},{
+  "_id": {
+    "$oid": "6287add4d29a66e0c4db24a0"
+  },
+  "Urun": "Domates",
+  "Fiyat": 4
+},{
+  "_id": {
+    "$oid": "6287add9d29a66e0c4db24a1"
+  },
+  "Urun": "Salatalık",
+  "Fiyat": 4
+},{
+  "_id": {
+    "$oid": "6287ade0d29a66e0c4db24a2"
+  },
+  "Urun": "Ceri_Domates",
+  "Fiyat": 6
+},{
+  "_id": {
+    "$oid": "6287ade4d29a66e0c4db24a3"
+  },
+  "Urun": "Bal",
+  "Fiyat": 8
+},{
+  "_id": {
+    "$oid": "6287ade8d29a66e0c4db24a4"
+  },
+  "Urun": "Recel",
+  "Fiyat": 8
+},{
+  "_id": {
+    "$oid": "6287adecd29a66e0c4db24a5"
+  },
+  "Urun": "Marul",
+  "Fiyat": 6
+},{
+  "_id": {
+    "$oid": "6287adf0d29a66e0c4db24a6"
+  },
+  "Urun": "Avokado",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287adf3d29a66e0c4db24a7"
+  },
+  "Urun": "K_Sogan_Tursu",
+  "Fiyat": 7
+},{
+  "_id": {
+    "$oid": "6287adf8d29a66e0c4db24a8"
+  },
+  "Urun": "Pesto_Sos",
+  "Fiyat": 9
+},{
+  "_id": {
+    "$oid": "6287db6f2e7a48a2814d6a2a"
+  },
+  "Urun": "Krem_Peynir_100gr",
+  "Fiyat": 15
+},{
+  "_id": {
+    "$oid": "6287db7f2e7a48a2814d6a2b"
+  },
+  "Urun": "Krem_Peynir_300gr",
+  "Fiyat": 40
+},{
+  "_id": {
+    "$oid": "6287db882e7a48a2814d6a2c"
+  },
+  "Urun": "Krem_Peynir_400gr",
+  "Fiyat": 55
+},{
+  "_id": {
+    "$oid": "628f8b05a4dc0bbb185e7da8"
+  },
+  "Urun": "Krem_Peynir_100gr_Aromali",
+  "Fiyat": 19
+},{
+  "_id": {
+    "$oid": "628f8b1da4dc0bbb185e7da9"
+  },
+  "Urun": "Krem_Peynir_300gr_Aromali",
+  "Fiyat": 52
+},{
+  "_id": {
+    "$oid": "628f8b53a4dc0bbb185e7daa"
+  },
+  "Urun": "Krem_Peynir_400gr_Aromali",
+  "Fiyat": 69
+}]

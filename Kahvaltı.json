@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "62712fe0873af6257bd737d1"
+  },
+  "Urun": "Scrambled_Yumurta_Ve_Avokadolu_Bagel",
+  "Fiyat": 45,
+  "İçindekiler": [
+    "Scrambled_Yumurta",
+    "Krem_Peynir",
+    "Baharatli_Avakado_Puresi"
+  ]
+},{
+  "_id": {
+    "$oid": "62713000873af6257bd737d2"
+  },
+  "Urun": "Granola",
+  "Fiyat": 50,
+  "İçindekiler": [
+    "Balli_Yogurt",
+    "Ey_yapimi_Granola",
+    "Mevsim_Meyve"
+  ]
+},{
+  "_id": {
+    "$oid": "62713018873af6257bd737d4"
+  },
+  "Urun": "Kizarmis_Bagel_Vegan",
+  "Fiyat": 35,
+  "İçindekiler": [
+    "Vegan_Krem_Peynir"
+  ]
+},{
+  "_id": {
+    "$oid": "6271301e873af6257bd737d5"
+  },
+  "Urun": "Kizarmis_Bagel",
+  "Fiyat": 31,
+  "İçindekiler": [
+    "Krem_Peynir"
+  ]
+},{
+  "_id": {
+    "$oid": "62713024873af6257bd737d6"
+  },
+  "Urun": "Kahvalti_Tabagi",
+  "Fiyat": 39,
+  "İçindekiler": [
+    "Dilimlenmis_Bagel",
+    "Krem_Peynir",
+    "Pesto",
+    "Domates",
+    "Salatalik",
+    "Tereyagi",
+    "Bal",
+    "Recel"
+  ]
+},{
+  "_id": {
+    "$oid": "6271302d873af6257bd737d7"
+  },
+  "Urun": "Bacon_Egg+Cheddar",
+  "Fiyat": 69,
+  "İçindekiler": [
+    "Iki_Yumurta",
+    "Iki_Chedar",
+    "Iki_Bacon",
+    "Hardal_Sos"
+  ]
+},{
+  "_id": {
+    "$oid": "62713034873af6257bd737d8"
+  },
+  "Urun": "Jersey_Bagel",
+  "Fiyat": 55,
+  "İçindekiler": [
+    "Iki_Yumurta",
+    "Hindi_Fume",
+    "Cheddar",
+    "Hardal_Sos"
+  ]
+},{
+  "_id": {
+    "$oid": "628bb02845343d21c70a4add"
+  },
+  "Urun": "French_Toast_Bagel",
+  "Fiyat": 50,
+  "İçindekiler": [
+    "Cinnamon_Raisin_Bagel",
+    "Mevsim_Meyve",
+    "File_Badem",
+    "Surup"
+  ]
+}]

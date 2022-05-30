@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6287ae54d29a66e0c4db24b3"
+  },
+  "Urun": "Sade",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae58d29a66e0c4db24b4"
+  },
+  "Urun": "Hashasli",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae5bd29a66e0c4db24b5"
+  },
+  "Urun": "Susam",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae62d29a66e0c4db24b7"
+  },
+  "Urun": "Her_Seyli",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae6dd29a66e0c4db24b9"
+  },
+  "Urun": "Tarcinli_Kuru_Uzumlu",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae74d29a66e0c4db24bb"
+  },
+  "Urun": "Zeytin_Kekikli",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287ae79d29a66e0c4db24bc"
+  },
+  "Urun": "Jalapeno_Cheddar",
+  "Fiyat": 14
+}]

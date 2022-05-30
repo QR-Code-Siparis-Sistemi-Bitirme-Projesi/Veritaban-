@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "6287aec4d29a66e0c4db24bf"
+  },
+  "Urun": "Kola",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287aec8d29a66e0c4db24c0"
+  },
+  "Urun": "Beyoglu_Gazoz",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287aeccd29a66e0c4db24c1"
+  },
+  "Urun": "Cay",
+  "Fiyat": 7
+},{
+  "_id": {
+    "$oid": "6287aed3d29a66e0c4db24c3"
+  },
+  "Urun": "Filtre_Kahve_Kucuk",
+  "Fiyat": 22
+},{
+  "_id": {
+    "$oid": "6287aed6d29a66e0c4db24c4"
+  },
+  "Urun": "Double_Espresso",
+  "Fiyat": 20
+},{
+  "_id": {
+    "$oid": "6287aed9d29a66e0c4db24c5"
+  },
+  "Urun": "Americano_Kucuk",
+  "Fiyat": 23
+},{
+  "_id": {
+    "$oid": "6287aeded29a66e0c4db24c6"
+  },
+  "Urun": "Latte_Kucuk",
+  "Fiyat": 25
+},{
+  "_id": {
+    "$oid": "6287aee2d29a66e0c4db24c7"
+  },
+  "Urun": "Surup",
+  "Fiyat": 6
+},{
+  "_id": {
+    "$oid": "6287aee5d29a66e0c4db24c8"
+  },
+  "Urun": "V60",
+  "Fiyat": 28
+},{
+  "_id": {
+    "$oid": "6287aee8d29a66e0c4db24c9"
+  },
+  "Urun": "Turk_Kahvesi",
+  "Fiyat": 18
+},{
+  "_id": {
+    "$oid": "6287aeedd29a66e0c4db24ca"
+  },
+  "Urun": "Flat_White",
+  "Fiyat": 26
+},{
+  "_id": {
+    "$oid": "6287aef0d29a66e0c4db24cb"
+  },
+  "Urun": "Capuccino",
+  "Fiyat": 26
+},{
+  "_id": {
+    "$oid": "6287aef3d29a66e0c4db24cc"
+  },
+  "Urun": "Cortado",
+  "Fiyat": 24
+},{
+  "_id": {
+    "$oid": "6287aef9d29a66e0c4db24cd"
+  },
+  "Urun": "Bitki_Caylari",
+  "Fiyat": 24
+},{
+  "_id": {
+    "$oid": "6287aefcd29a66e0c4db24ce"
+  },
+  "Urun": "Beyoglu_Gazoz",
+  "Fiyat": 14
+},{
+  "_id": {
+    "$oid": "6287af00d29a66e0c4db24cf"
+  },
+  "Urun": "Cold_Brew",
+  "Fiyat": 28
+},{
+  "_id": {
+    "$oid": "6287af03d29a66e0c4db24d0"
+  },
+  "Urun": "Portakal_Suyu",
+  "Fiyat": 18
+},{
+  "_id": {
+    "$oid": "6287af08d29a66e0c4db24d1"
+  },
+  "Urun": "Kombucha",
+  "Fiyat": 25
+},{
+  "_id": {
+    "$oid": "628be46556fc70e4c290d7b1"
+  },
+  "Urun": "Latte_Buyuk",
+  "Fiyat": 29
+},{
+  "_id": {
+    "$oid": "628be57c56fc70e4c290d7b2"
+  },
+  "Urun": "Americano_Buyuk",
+  "Fiyat": 27
+},{
+  "_id": {
+    "$oid": "628be5c956fc70e4c290d7b3"
+  },
+  "Urun": "Filtre_Kahve_Kucuk_Buyuk",
+  "Fiyat": 26
+}]

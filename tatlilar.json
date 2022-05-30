@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6287af65d29a66e0c4db24d5"
+  },
+  "Urun": "Cupcake",
+  "Fiyat": 24
+},{
+  "_id": {
+    "$oid": "6287af68d29a66e0c4db24d6"
+  },
+  "Urun": "Cheesecake",
+  "Fiyat": 35
+},{
+  "_id": {
+    "$oid": "6287af6bd29a66e0c4db24d7"
+  },
+  "Urun": "Cinnamon_Roll",
+  "Fiyat": 26
+},{
+  "_id": {
+    "$oid": "6287af6ed29a66e0c4db24d8"
+  },
+  "Urun": "Nutellali_Rulo",
+  "Fiyat": 28
+},{
+  "_id": {
+    "$oid": "6287af73d29a66e0c4db24d9"
+  },
+  "Urun": "İsvec_Kek",
+  "Fiyat": 29
+},{
+  "_id": {
+    "$oid": "6287af77d29a66e0c4db24da"
+  },
+  "Urun": "Havuclu_Kek_Vegan",
+  "Fiyat": 28
+}]

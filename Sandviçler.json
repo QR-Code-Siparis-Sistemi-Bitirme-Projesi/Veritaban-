@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "62713084873af6257bd737db"
+  },
+  "Urun": "Bagel_House_Salata_Vegan",
+  "Fiyat": 28,
+  "İçindekiler": [
+    "Kivircik_Marul",
+    "Gobek_Marul",
+    "Reyhan",
+    "Maydanoz",
+    "Yag-Limon_sos",
+    "Bagel_Kruton"
+  ]
+},{
+  "_id": {
+    "$oid": "62713089873af6257bd737dc"
+  },
+  "Urun": "Egg_Salad_Bagel",
+  "Fiyat": 42,
+  "İçindekiler": [
+    "Yumurta_Salatasi",
+    "Krem_Peynir",
+    "Marul"
+  ]
+},{
+  "_id": {
+    "$oid": "6271308e873af6257bd737dd"
+  },
+  "Urun": "Yesil_Bagel_Vegan",
+  "Fiyat": 40,
+  "İçindekiler": [
+    "Bagaratli_Guacamole"
+  ]
+},{
+  "_id": {
+    "$oid": "62713094873af6257bd737de"
+  },
+  "Urun": "BLT",
+  "Fiyat": 62,
+  "İçindekiler": [
+    "Bacon",
+    "Marul",
+    "Domates",
+    "Krem_Peynir",
+    "Mayonez"
+  ]
+},{
+  "_id": {
+    "$oid": "62713099873af6257bd737df"
+  },
+  "Urun": "Bahn_Mi_Bagel",
+  "Fiyat": 71,
+  "İçindekiler": [
+    "Vietnam_Antrikot",
+    "Tursu",
+    "Cheddar_Peynir",
+    "Marul",
+    "Hardalli_Sos"
+  ]
+},{
+  "_id": {
+    "$oid": "627130a5873af6257bd737e1"
+  },
+  "Urun": "Nohut_Salatalı_Bagel_Vegan",
+  "Fiyat": 42,
+  "İçindekiler": [
+    "Nohut_Karisimi",
+    "Sriracha_Sos",
+    "Baharat",
+    "Marul"
+  ]
+},{
+  "_id": {
+    "$oid": "627130ab873af6257bd737e2"
+  },
+  "Urun": "Somon_Ceviche_Bagel",
+  "Fiyat": 78,
+  "İçindekiler": [
+    "Pancarli_Somon",
+    "Avokado",
+    "Krem_Peynir",
+    "Deniz_Tuzu"
+  ]
+},{
+  "_id": {
+    "$oid": "627130af873af6257bd737e3"
+  },
+  "Urun": "New_York_Somon_Bagel",
+  "Fiyat": 71,
+  "İçindekiler": [
+    "Fume_Somon",
+    "Krem_Peynir",
+    "Kirmizi_Sogan_Tursusu",
+    "Kapari_Tursusu"
+  ]
+}]
